@@ -23,6 +23,6 @@
 
   <h2>Join the Sahurverse</h2>
   <p>Are you ready to answer the call before the third "TUNG"? Or will you be the next one haunted? Jump into the Sahurverse and discover what wakes when you sleep in.</p>
-
+Play now at <a href="https://trafficrally.io">Trafficrally.io</a>
 </body>
 </html>
